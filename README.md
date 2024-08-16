@@ -1,1 +1,1 @@
-# Login-Crud-Django-Rest-Framework
+# Login-Crud-jwt-Django-Rest-Framework
